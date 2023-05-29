@@ -1,3 +1,3 @@
-- <p>This is a weather web app. It provides info of current weather status and forecast for the next 10 days.</p>
-- <p>Frontend is built using ReactJs, MUI, SCSS, HTML.</p>
-- <p>Yahoo weather API is used here for fetching data.</p>
+- <p style = "font-size:14">This is a weather web app. It provides info of current weather status and forecast for the next 10 days.</p>
+- <p style = "font-size:14">Frontend is built using ReactJs, MUI, SCSS, HTML.</p>
+- <p style = "font-size:14">Yahoo weather API is used here for fetching data.</p>
