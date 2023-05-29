@@ -1,0 +1,122 @@
+{
+    "location": {
+      "city": "Chainpura Chhota",
+      "woeid": 29062865,
+      "country": "India",
+      "lat": 28.8193,
+      "long": 75.312714,
+      "timezone_id": "Asia/Kolkata"
+    },
+    "current_observation": {
+      "pubDate": 1685191953,
+      "wind": {
+        "chill": 90,
+        "direction": "South",
+        "speed": 10
+      },
+      "atmosphere": {
+        "humidity": 54,
+        "visibility": 4.97,
+        "pressure": 1002.7
+      },
+      "astronomy": {
+        "sunrise": "5:33 AM",
+        "sunset": "7:19 PM"
+      },
+      "condition": {
+        "temperature": 90,
+        "text": "Cloudy",
+        "code": 26
+      }
+    },
+    "forecasts": [
+      {
+        "day": "Sat",
+        "date": 1685203200,
+        "high": 92,
+        "low": 77,
+        "text": "Sunny",
+        "code": 32
+      },
+      {
+        "day": "Sun",
+        "date": 1685289600,
+        "high": 96,
+        "low": 73,
+        "text": "Sunny",
+        "code": 32
+      },
+      {
+        "day": "Mon",
+        "date": 1685376000,
+        "high": 90,
+        "low": 73,
+        "text": "Thunderstorms",
+        "code": 4
+      },
+      {
+        "day": "Tue",
+        "date": 1685462400,
+        "high": 87,
+        "low": 71,
+        "text": "Mostly Sunny",
+        "code": 34
+      },
+      {
+        "day": "Wed",
+        "date": 1685548800,
+        "high": 95,
+        "low": 73,
+        "text": "Mostly Sunny",
+        "code": 34
+      },
+      {
+        "day": "Thu",
+        "date": 1685635200,
+        "high": 96,
+        "low": 76,
+        "text": "Sunny",
+        "code": 32
+      },
+      {
+        "day": "Fri",
+        "date": 1685721600,
+        "high": 98,
+        "low": 77,
+        "text": "Sunny",
+        "code": 32
+      },
+      {
+        "day": "Sat",
+        "date": 1685808000,
+        "high": 100,
+        "low": 78,
+        "text": "Sunny",
+        "code": 32
+      },
+      {
+        "day": "Sun",
+        "date": 1685894400,
+        "high": 102,
+        "low": 80,
+        "text": "Mostly Sunny",
+        "code": 34
+      },
+      {
+        "day": "Mon",
+        "date": 1685980800,
+        "high": 104,
+        "low": 81,
+        "text": "Partly Cloudy",
+        "code": 30
+      },
+      {
+        "day": "Tue",
+        "date": 1686067200,
+        "high": 105,
+        "low": 83,
+        "text": "Partly Cloudy",
+        "code": 30
+      }
+    ]
+  }

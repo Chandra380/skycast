@@ -1,0 +1,37 @@
+.fDetail{
+    height: 170px;
+    width: 75%;
+    background-color: #D8D7D5;
+    margin-right: 5px;
+    overflow: scroll;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+    &::-webkit-scrollbar{
+        display: none;
+    }
+    .day{
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    .high{
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+    .low{
+        margin-bottom: 25px;
+        font-size: 14px;
+    }
+    .condition{
+        background-color: whitesmoke;
+        border-radius: 5px;
+        color: black;
+        text-align: center;
+        font-weight: 400;
+        padding: 5px 0px;
+    }
+}

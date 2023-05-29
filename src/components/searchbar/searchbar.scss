@@ -1,0 +1,32 @@
+.navbar{
+    margin-bottom: 60px;
+    p{
+        text-align: center;
+        line-height: 10px;
+        font-family: 'Pacifico', cursive;
+        color: rgb(66, 65, 65);
+        font-size: 50px;
+    }
+    form{
+        display: flex;
+        justify-content: center;
+        div{
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            border: 2px solid #ccc;
+            padding: 8px 0px 8px 8px;
+            border-radius: 20px;
+            border-color: rgb(67, 66, 66);
+            width: 400px;
+            height: 20px;
+            input{
+                border: none;
+                padding: 8px;
+                border-radius: 20px;
+                width: 330px;
+                outline: none;
+            }
+        }    
+    }
+}
