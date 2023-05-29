@@ -1,3 +1,3 @@
-- This is a weather web app. It provides info of current weather status and forecast for the next 10 days.
+- <p>This is a weather web app. It provides info of current weather status and forecast for the next 10 days.<p>
 - Frontend is built using ReactJs, MUI, SCSS, HTML.
 - Yahoo weather API is used here for fetching data.
